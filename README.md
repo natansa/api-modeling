@@ -1,2 +1,2 @@
 # api-modeling
-Modelagem de API para .Net 6
+Modelagem básica de API para .Net 6
